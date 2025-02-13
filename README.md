@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 Execute the following command to run the Jupyter notebook:
 
-jupyter notebook CAT_A_<TEAM_NUMBER>.ipynb
+jupyter notebook CAT_A_63.ipynb
 
 Ensure that the dataset is correctly loaded into the notebook.
 
